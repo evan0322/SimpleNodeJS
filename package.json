@@ -1,5 +1,5 @@
 {
-  "name": "node-js-getting-started",
+  "name": "Simple Node JS",
   "version": "0.1.3",
   "description": "A Demo App for Node.js Express and iOS",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/evan0322/SimpleNodeJS"
   },
   "keywords": [
     "node",
