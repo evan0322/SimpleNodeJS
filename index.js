@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var json = {
             "Name":"Entrust",
-            "Group":"DataCaed",
+            "Group":"DataCard",
             "Address":{
                         "Country":"Canada",
                         "Province":"Ontario",
